@@ -2,7 +2,6 @@
 ![Hyakkimaru](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCe_A_wCyLUfF2trZbogSPUNVHvW6BkDPNxuCDzsxue7XiCoJvnJdUXwvx8axbLua0_2Ftv7V82hPWoilR31lViaiY9u_5ATF2ocYOZgbyG4xJ3eF6z3_lmJ36yV8wWVcxuFTxyIRjbkd/w7680-h2160-c/hyakkimaru-dororo-anime-uhdpaper.com-4K-5.jpg)
 ## Sobre mim
 
-- 🤓 Sendo nerd na programação e no Valorant.
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Mato Grosso do Sul - CPTL.
 - 💼 Estágiario Bolsista no Programa de Bolsa na COMPASS UOL e Monitor voluntário de Algortimos e Programação I.
 - 💻 Aprendendo mais sobre: Java, JavaScript, AWS & Python.
