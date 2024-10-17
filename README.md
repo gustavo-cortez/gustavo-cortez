@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Mato Grosso do Sul - CPTL.
-- 💼 Estágiario Bolsista no Programa de Bolsa na COMPASS UOL e Monitor voluntário de Algortimos e Programação I.
+- 💼 Monitor remunerado de Algortimos e Programação II.
 - 💻 Aprendendo mais sobre: Java, JavaScript, AWS & Python.
 
 ## Minhas Skills
