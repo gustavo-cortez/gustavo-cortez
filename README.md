@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Mato Grosso do Sul - CPTL.
-- 💼 Monitor remunerado de Algortimos e Programação II.
+- 💼 Monitor remunerado de Algortimos e Programação II e Voluntário de Algortimos e Programação I.
 - 💻 Aprendendo mais sobre: Java, JavaScript, AWS & Python.
 
 ## Minhas Skills
