@@ -4,7 +4,10 @@
 
 - 🎓 Cursando Sistemas de Informação na Universidade Federal de Mato Grosso do Sul - CPTL.
 - 💼 Monitor remunerado de Algortimos e Programação II e Voluntário de Algortimos e Programação I.
-- 💻 Aprendendo mais sobre: Java, JavaScript, AWS & Python.
+- 💻 Aprendendo mais sobre: JavaScript, AWS & Python.
+- 🧩 Especialista em Java, Spring/Quarkus, Docker, Kubernets e React.
+- 🎖️Desenvolvedor Full Stack Pleno e Tech Lead.
+
 
 ## Minhas Skills
 
