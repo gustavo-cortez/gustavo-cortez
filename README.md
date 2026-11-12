@@ -104,12 +104,7 @@
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <a href="https://github.com/gustavo-cortez">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=gustavo-cortez&show_icons=true&bg_color=0d1117&title_color=006bed&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/gustavo-cortez">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-cortez&layout=compact&bg_color=0d1117&title_color=006bed&text_color=c9d1d9&border_color=30363d&langs_count=8" alt="Top Languages" />
-  </a>
+  
   <br/>
   <a href="https://github.com/gustavo-cortez">
     <img src="https://streak-stats.demolab.com?user=gustavo-cortez&background=0d1117&border=30363d&ring=006bed&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
