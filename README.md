@@ -103,8 +103,18 @@
 
 ## 📊 Estatísticas no GitHub
 
-<div align="center">
-  
+  <div align="center">
+    <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavo-cortez/gustavo-cortez/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavo-cortez/gustavo-cortez/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavo-cortez/gustavo-cortez/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  </picture>
+  ###
+  <div data-importer="stats" align="center">
+    <img src="https://raw.githubusercontent.com/gustavo-cortez/gustavo-cortez/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+    <img src="https://raw.githubusercontent.com/gustavo-cortez/gustavo-cortez/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  </div>
+  ###
   <br/>
   <a href="https://github.com/gustavo-cortez">
     <img src="https://streak-stats.demolab.com?user=gustavo-cortez&background=0d1117&border=30363d&ring=006bed&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
